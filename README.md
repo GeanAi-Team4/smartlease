@@ -20,7 +20,7 @@ Redefines apartment searching by enabling users to search apartments conversatio
 
 **Features and Pipelines:**
 
-**Pipeline 1- **
+****Pipeline 1- ****
 The first pipeline contains a scrape code to fetch data from realtor.com. From the scraped data, the address is extracted and using this address, a set of predefined POIs is fetched using Google Maps Places API. This data is then added with embeddings and stored in the Snowflake Warehouse database.
 
 **Pipeline 2 - S**econd pipeline is a manual data entry feature which contains Fastapi form which takes in the Metadata and embeddings are generated from this Metadata. This data is then stored in the Snowflake Warehouse Database.
