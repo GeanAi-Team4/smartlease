@@ -13,7 +13,7 @@ Teaching Assistant: Adwaith Korapati
 
 **Demo:** https://drive.google.com/file/d/1Tav5KFJfixoAzAC1hfzkiA3ZdoHicFNM/view?usp=sharing
 
-
+**Documentation:** https://docs.google.com/document/d/1LmyzlJ8vbLwrl7zrc8RYlFZXR_BBuF9-UUN3h_70JYE/edit?pli=1&tab=t.0
 
 **Architecture:**
 ![streamlit_architecture](https://github.com/user-attachments/assets/ec79b88e-e2bb-41f4-a721-14d98d38c10b)
