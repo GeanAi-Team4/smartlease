@@ -6,12 +6,12 @@ Smartlease: searching property is now easy.
 **Overview:** The AI-Powered Apartment Search is an platform to transform the way people search a property.
 Redefines apartment searching by enabling users to search apartments conversationally, bypassing traditional filters and dropdowns, ensuring precise matches
 
-**Team: **Shubham Agarwal, Tirth Desai, Aqeel Ryan
-**Course: **DAMG 7275 GenAI LLM in Data Engineering
-**Instructor:** Prof. Kishore Aradhya
-**Teaching Assistant:** Adwaith Korapati
+Team:Shubham Agarwal, Tirth Desai, Aqeel Ryan
+Course: DAMG 7275 GenAI LLM in Data Engineering
+Instructor: Prof. Kishore Aradhya
+Teaching Assistant: Adwaith Korapati
 
-**Demo: ** 
+**Demo:** https://drive.google.com/file/d/1Tav5KFJfixoAzAC1hfzkiA3ZdoHicFNM/view?usp=sharing
 
 
 
