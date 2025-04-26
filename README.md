@@ -19,6 +19,7 @@ Redefines apartment searching by enabling users to search apartments conversatio
 ![streamlit_architecture](https://github.com/user-attachments/assets/ec79b88e-e2bb-41f4-a721-14d98d38c10b)
 
 **Features and Pipelines:**
+
 **Pipeline 1- **
 The first pipeline contains a scrape code to fetch data from realtor.com. From the scraped data, the address is extracted and using this address, a set of predefined POIs is fetched using Google Maps Places API. This data is then added with embeddings and stored in the Snowflake Warehouse database.
 
