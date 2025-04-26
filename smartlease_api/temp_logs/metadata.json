@@ -1,0 +1,7 @@
+{
+  "user_query": "Show me 2 bed 1 bath house",
+  "metadata": {
+    "beds": 2,
+    "full_baths": 1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "ranked_properties": [
+    {
+      "property_id": "9870719186",
+      "pros": [
+        "Lower price compared to others",
+        "Located in Roslindale, a peaceful neighborhood"
+      ],
+      "cons": [
+        "Smaller square footage",
+        "Limited information about the property"
+      ],
+      "suggestion": "Consider this if you're looking for a budget-friendly option in a peaceful neighborhood."
+    },
+    {
+      "property_id": "4367868924",
+      "pros": [
+        "Reasonable price",
+        "Located in North End, a lively neighborhood"
+      ],
+      "cons": [
+        "Limited information about the property",
+        "Relatively smaller square footage"
+      ],
+      "suggestion": "This could be a good choice if you value living in a lively neighborhood over larger living space."
+    },
+    {
+      "property_id": "4222244657",
+      "pros": [
+        "Located in South End, a popular neighborhood",
+        "Nearby reputable schools"
+      ],
+      "cons": [
+        "Higher price",
+        "Limited information about the property"
+      ],
+      "suggestion": "This property might be a good choice if you have children and the South End neighborhood is a priority."
+    },
+    {
+      "property_id": "9105940774",
+      "pros": [
+        "Located in Brighton, a popular neighborhood",
+        "Reasonable price"
+      ],
+      "cons": [
+        "Square footage is not provided",
+        "Limited information about the property"
+      ],
+      "suggestion": "Consider this property if you're on a budget but still want to live in a popular neighborhood."
+    },
+    {
+      "property_id": "4523366191",
+      "pros": [
+        "Located in South End, a popular neighborhood",
+        "Larger square footage"
+      ],
+      "cons": [
+        "Higher price",
+        "Limited school information"
+      ],
+      "suggestion": "This property could be a good fit if you're prioritizing space and location, and the budget is not a constraint."
+    },
+    {
+      "property_id": "9923279915",
+      "pros": [
+        "Larger square footage",
+        "Located in Boston downtown"
+      ],
+      "cons": [
+        "Highest price among the options",
+        "No information about the neighborhood or nearby schools"
+      ],
+      "suggestion": "This might be a good option if you prioritize living downtown and have a larger budget."
+    }
+  ]
+}
