@@ -2,7 +2,8 @@
 Smartlease - searching property is now easy.
 
 **Architecture:**
-[Team_4_AI_Search_System.pptx](https://github.com/user-attachments/files/19921479/Team_4_AI_Search_System.pptx)
+
+![streamlit_architecture](https://github.com/user-attachments/assets/ec79b88e-e2bb-41f4-a721-14d98d38c10b)
 
 
 
